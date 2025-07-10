@@ -1,5 +1,7 @@
 "use client";
 
+console.log("Page loaded")
+
 import { useEffect, useState } from "react";
 
 export default function Home() {
