@@ -1,5 +1,4 @@
 # TaskRoll
-
 **TaskRoll** is a clean, gamified daily to-do app — built for simplicity, consistency, and fun.  
 Each day, you're assigned a unique **Player Number**, and your unfinished quests (tasks) carry over to tomorrow.
 
@@ -9,10 +8,8 @@ Each day, you're assigned a unique **Player Number**, and your unfinished quests
 
 👉 [Try it now](https://task-roll-nine.vercel.app/)
 
-### ☀️ Light Mode
 ![Light Mode](./light.png)
 
-### 🌙 Dark Mode
 ![Dark Mode](./dark.png)
 
 ## ✨ Features
