@@ -163,7 +163,7 @@ export default function Home() {
           <div className={`p-8 rounded-xl shadow-2xl ${darkMode ? "bg-gray-800" : "bg-white"} text-center`}>
             <div className="text-6xl mb-4">🎮</div>
             <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent">
-              Welcome to LifeRPG!
+              Welcome to the Game of Life!
             </h1>
             <div className="space-y-4 text-left max-w-lg mx-auto">
               <div className="flex items-start gap-3">
