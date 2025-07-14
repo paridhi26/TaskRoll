@@ -177,7 +177,7 @@ export default function Home() {
                 <span className="text-2xl">⚔️</span>
                 <div>
                   <h3 className="font-semibold">Complete Daily Quests</h3>
-                  <p className="text-sm opacity-80">Finish tasks to make progress and help tomorrow's player</p>
+                  <p className="text-sm opacity-80">Finish tasks to make progress and help tomorrow&apos;s player</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">
