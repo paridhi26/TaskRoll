@@ -1,32 +1,35 @@
-# TaskRoll
-**TaskRoll** is a clean, gamified daily to-do app — built for simplicity, consistency, and fun.  
-Each day, you're assigned a unique **Player Number**, and your unfinished quests (tasks) carry over to tomorrow.
+# Game of Life (formerly TaskRoll)
 
-🧠 Great for productivity lovers, ADHD brains, and anyone who wants to treat life like a game.
+**Game of Life** turns your real-life to-do list into a mini RPG game.  
+Each day, you are a new *Player* on a quest to complete tasks, earn XP, and leave a solid foundation for tomorrow's player (your future self). Each day, you're assigned a unique **Player Number**, and your unfinished quests (tasks) carry over to tomorrow.
+
+Designed to help people with ADHD and time-blindness stay focused, motivated, and aware of their progress. Great for productivity lovers, ADHD brains, and anyone who wants to treat life like a game.
 
 ## 🔗 Live Demo
 
-👉 [Try it now](https://task-roll-nine.vercel.app/)
+👉 [https://task-roll-nine.vercel.app](https://task-roll-nine.vercel.app)
+
+## 🧠 Features
+
+- 🎯 **Daily Quests**: Tasks reset each day, with uncompleted quests carrying forward.
+- 🕒 **Time Awareness Bar**: Visualizes how much of your workday (8 AM–6 PM) has passed.
+- 🧾 **XP & Leveling**: Earn 10 XP per completed task. Level up your productivity!
+- 🎭 **Player Handoff**: Motivational messages from "tomorrow’s player" based on your effort.
+- 🌗 **Dark Mode** toggle
+- 🎮 Daily “Player Number” based on the date (e.g., `20250710`)
+- 📝 **Welcome screen** on first visit
+- 🧠 **ADHD brains friendly**: Visual structure, time awareness, gamified feedback
 
 ![Light Mode](./light.png)
 
 ![Dark Mode](./dark.png)
 
-## ✨ Features
+## 🛠 Tech Stack
 
-- ✅ Add and check off tasks
-- 🔁 Unfinished tasks automatically carry over each day
-- 📅 Displays current date + weekday
-- 🎮 Daily “Player Number” based on the date (e.g., `20250710`)
-- 🌗 Toggle between Light and Dark mode
-- 💾 Saves locally in your browser using `localStorage`
-
-
-## 🚀 Tech Stack
-
-- [Next.js 14 (App Router)](https://nextjs.org/)
+- [Next.js (App Router)](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- `localStorage` (no backend!)
+- `localStorage` for persistence (per-device)
+- Custom state-based logic for XP, time, and motivation
 
 ## 🛠 Getting Started (For Developers)
 
