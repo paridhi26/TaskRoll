@@ -20,10 +20,6 @@ Designed to help people with ADHD and time-blindness stay focused, motivated, an
 - 📝 **Welcome screen** on first visit
 - 🧠 **ADHD brains friendly**: Visual structure, time awareness, gamified feedback
 
-![Light Mode](./light.png)
-
-![Dark Mode](./dark.png)
-
 ## 🛠 Tech Stack
 
 - [Next.js (App Router)](https://nextjs.org/)
