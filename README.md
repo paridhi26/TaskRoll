@@ -7,6 +7,7 @@ Designed to help people with ADHD and time-blindness stay focused, motivated, an
 
 ## 🔗 Live Demo
 
+This is the initial deployed version (v1) with a limited feature set.
 👉 [https://task-roll-nine.vercel.app](https://task-roll-nine.vercel.app)
 
 ## 🧠 Features
